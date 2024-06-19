@@ -4,13 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Code Overview
+--------------
 
-A few resources to get you started if this is your first Flutter project:
+import 'package
+/material.dart';: Imports the Flutter material package which provides a set of UI components.
+void main(): The entry point of the application.
+runApp(): Initializes the Flutter app.
+MaterialApp: A convenience widget that wraps several widgets commonly required for material design applications.
+Scaffold: Implements the basic material design visual layout structure.
+AppBar: A material design app bar that can hold a title.
+Center: Centers its child widget.
+Text: A simple widget to display text.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/tesii/Simple_HelloApp/assets/130172829/354c9912-1086-424e-9178-15d1a37a9c2c)

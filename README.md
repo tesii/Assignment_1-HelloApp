@@ -25,4 +25,7 @@ Center: Centers its child widget.
 
 Text: A simple widget to display text.
 
-![image](https://github.com/tesii/Simple_HelloApp/assets/130172829/354c9912-1086-424e-9178-15d1a37a9c2c)
+OUTPUT
+-----
+![image](https://github.com/tesii/Simple_HelloApp/assets/130172829/c9d90222-d6f1-4f6e-b310-911b05c804d0)
+
